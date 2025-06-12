@@ -3,7 +3,7 @@
 A simple and elegant To-Do List web app built with HTML, CSS, and JavaScript.
 
 
-<img src="./assets/images/ToDoApp.png" alt="Task List Screenshot" width="400" style="float: right;" />
+<img src="./assets/images/ToDoApp.png" alt="Task List Screenshot" width="600" style="float: center;" />
 
 
 ## 🔹 Features
