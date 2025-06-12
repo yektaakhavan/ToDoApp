@@ -20,4 +20,5 @@ A simple and elegant To-Do List web app built with HTML, CSS, and JavaScript.
 - JavaScript (Vanilla JS)
 
 ## 🌐 Live Demo
-[👉 Click here to view the app](https://yektaakhavan.github.io/ToDoApp/)
+![ToDo App Screenshot](./assets/images/ToDoApp.png)
+
